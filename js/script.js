@@ -24,6 +24,8 @@ var pets = [
 //question 2
 
 function creatingOneFunction (argument) {
+    var typeOfValue = typeof argument;
+    console.log(argument);
     }
 
 
