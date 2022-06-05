@@ -14,24 +14,17 @@ var pets = [
 ];  
 
     for (var i = 0; i < pets.length; i++) {
-        var pet = pets[i];
-        console.log(pet)
+
+        if (pets[i].age >= 4.0)
+    
+        console.log(pets[i])
 }
 
 
 //question 2
 
-function creatingOneFunction (argumentOfTheFunction) {
-
-    var typeofArguemnt= typeof argumentOfTheFunction;
-
-
-}
-
-console.log("typeofArguemnt");
-
-
-
+function creatingOneFunction (argument) {
+    }
 
 
 
